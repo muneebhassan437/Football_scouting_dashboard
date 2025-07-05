@@ -11,4 +11,4 @@ maximize return on investment for soccer clubs.
 # csv file
 The csv file in the directory shows the data which I worked with
 # twb file
-The 
+The "soccer_scouts_dashboard.twb" file is the main dashboard which I created. To check out the dashboard, you need to download this .twb file and open it through Tableau Desktop or Tableau Public.
